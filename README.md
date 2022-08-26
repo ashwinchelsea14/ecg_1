@@ -1,6 +1,5 @@
-s
-a
-d
-f
-g
+2-d arrhythmia classification using CNN
+
+
+
 
