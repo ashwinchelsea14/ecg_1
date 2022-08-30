@@ -1,8 +1,8 @@
-2-d arrhythmia classification using CNN
+# 2-d arrhythmia classification using CNN
 
-Project Objectives
+## Project Objectives
 
-By the end of this project you will:
+### By the end of this project you will:
 
 Know fundamental concepts and techniques of the Artificial Neural Network and Convolution Neural Networks
 
